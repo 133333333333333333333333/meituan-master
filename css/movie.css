@@ -846,37 +846,3 @@ a {
 }
 
 
-.footer {
-    height: 375px;
-    width: 1536px;
-    background-color: #262426;
-    position: absolute;
-    bottom: 0;
-    margin: 0 auto;
-    /* line-height: 375px; */
-    text-align: center;
-}
-.footer .footer-con {
-    margin-top: 60px;
-}
-
-.footer p,.footer p a{
-    font-size: 14px;
-    color: #fff;
-    margin: 5px;
-}
-.footer span {
-    display: inline-block;
-    border-left: 1px solid #ccc;
-    margin: 0 7px;
-    height: 12px;
-    position: relative;
-    top: 1px;
-}
-.footer .bottom-con {
-    padding-top: 10px;
-}
-.footer .bottom-con img {
-    height: 40px;
-    display: flex;
-}
